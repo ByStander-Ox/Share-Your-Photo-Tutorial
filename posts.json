@@ -1,0 +1,29 @@
+{
+  "posts" : [ {
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/shareyourphoto-tutorial.appspot.com/o/posts%2Fphoto-1558981420-bf351ce8e3ca.jpeg?alt=media",
+    "title" : "Harley Davidson Bike",
+    "uploader" : {
+      "avatarUrl" : "https://firebasestorage.googleapis.com/v0/b/shareyourphoto-tutorial.appspot.com/o/users%2Fuser1.jpg?alt=media",
+      "email" : "text@example.com",
+      "fullName" : "Bruce Perdue",
+      "username" : "bruce"
+    }
+  }, {
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/shareyourphoto-tutorial.appspot.com/o/posts%2Fphoto-1581048378149-a78615494ff6.jpeg?alt=media",
+    "title" : "Walking my dogs!",
+    "uploader" : {
+      "avatarUrl" : "https://firebasestorage.googleapis.com/v0/b/shareyourphoto-tutorial.appspot.com/o/users%2Fuser3.jpg?alt=media",
+      "email" : "anna@example.com",
+      "fullName" : "Anna Talley",
+      "username" : "anna"
+    }
+  }, {
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/shareyourphoto-tutorial.appspot.com/o/posts%2Fphoto-1581048875439-27209276bd87.jpeg?alt=media",
+    "title" : "Sea and Rocks!!!",
+    "uploader" : {
+      "avatarUrl" : "https://firebasestorage.googleapis.com/v0/b/shareyourphoto-tutorial.appspot.com/o/users%2Fuser1.jpg?alt=media",
+      "email" : "text@example.com",
+      "fullName" : "Bruce Perdue",
+      "username" : "bruce"
+    }
+  } ]}
